@@ -1,0 +1,16 @@
+p{
+  font-family: Montserrat;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.h1{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.content{
+  font-size: 15px;
+  margin-top: 10px;
+}

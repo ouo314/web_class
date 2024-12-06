@@ -1,0 +1,23 @@
+.cat{
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+  border-radius: 100px;
+}
+.bar{
+  font-size: 11px;
+  vertical-align: middle;
+  border: none;
+}
+.button{
+  background-color: rgb(142, 182, 238);
+  color: white;
+  border-radius: 30px;
+  border: none;
+  font-size: 10px;
+  font-weight: bold;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
