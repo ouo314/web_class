@@ -1,0 +1,40 @@
+.profile {
+    box-shadow: 0 0 4px -1px;
+    width: 90px;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.photo {
+    height: 78px;
+    width: 90px;
+}
+
+p {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3px;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 10px;
+
+}
+
+.friends {
+    font-size: 8px;
+    color: gray;
+}
+
+.add {
+    height: 15px;
+    margin-top: 0;
+    border: none;
+    color: white;
+    background-color: rgb(46, 107, 238);
+    border-radius: 2px;
+    margin-left: 3px;
+    font-size: 8px;
+    margin-bottom: 3px;
+}

@@ -1,0 +1,33 @@
+.tweet {
+    border: none;
+    border-radius: 5px;
+    width: 230px;
+    padding: 8px 8px 8px 8px;
+    box-shadow: 0 0 4px -1px;
+}
+
+.cat {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+    border-radius: 100px;
+}
+
+.bar {
+    font-size: 11px;
+    vertical-align: middle;
+    border: none;
+}
+
+.button {
+    background-color: rgb(115, 164, 231);
+    color: white;
+    border-radius: 30px;
+    border: none;
+    font-size: 10px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+}

@@ -1,0 +1,46 @@
+p,
+input,
+button {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 8px;
+    font-size: 20px;
+}
+
+input {
+    display: block;
+    border: none;
+    background-color: rgb(238, 237, 237);
+    color: gray;
+    margin-bottom: 3px;
+    height: 20px;
+    width: 200px;
+    font-size: 8px;
+}
+
+.destination {
+    margin-bottom: 15px;
+}
+
+.now {
+    background-color: black;
+    color: white;
+    border: none;
+    height: 23px;
+    width: 70px;
+    font-size: 8px;
+}
+
+.later {
+    margin-left: 5px;
+    background-color: rgb(238, 237, 237);
+    color: black;
+    border: none;
+    height: 23px;
+    width: 90px;
+    font-size: 8px;
+}

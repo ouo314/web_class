@@ -1,0 +1,18 @@
+.logo {
+    display: block;
+    margin: auto;
+    width: 150px;
+}
+
+.bar {
+    height: 20px;
+    width: 350px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    border: none;
+    border-radius: 100px;
+    box-shadow: 0 0 3px -1px;
+    text-align: left;
+    font-size: 10px;
+}
